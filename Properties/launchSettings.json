@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MQTT Data Parser": {
+      "commandName": "Project"
+    }
+  }
+}
